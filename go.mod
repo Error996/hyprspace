@@ -6,7 +6,7 @@ require (
 	github.com/DataDrake/cli-ng/v2 v2.0.2
 	github.com/hashicorp/go-version v1.4.0 // indirect
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
-	github.com/ipfs/go-datastore v0.5.1
+	github.com/ipfs/go-datastore v0.6.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/libp2p/go-libp2p v0.17.0
 	github.com/libp2p/go-libp2p-core v0.13.0
